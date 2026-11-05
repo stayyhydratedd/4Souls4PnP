@@ -27,7 +27,7 @@
 - [Four Souls](https://foursouls.com/) — официальный сайт игры и база оригинальных карт.
 - [Four Souls RU](https://foursoulsru.org/) — фанатский сайт с русскими переводами карт.
 - [Font Souls](https://github.com/AssisrMatheus/font-souls) — латинские шрифты Four Souls, кириллические версии шрифтов созданы на их основе.
-- [Print Four Souls](https://printfoursouls.com/) — сайт для подготовки и печати карт, с готовыми бустер-паками и редактором карт.
+- [Print Four Souls](https://printfoursouls.com/) — сайт для подготовки и печати карт, с оригинальными бустер-паками и редактором карт.
 
 ## Карты
 
